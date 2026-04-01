@@ -1,0 +1,15 @@
+﻿# Build artifacts
+bin/
+obj/
+
+# IDE
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Dotnet
+*.cache
+*.tmp
